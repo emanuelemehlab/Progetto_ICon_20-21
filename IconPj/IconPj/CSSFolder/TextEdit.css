@@ -1,0 +1,8 @@
+QTextEdit{
+    background-color: lightseagreen;
+    border-style: double;
+    border-width: 4px;
+    border-radius: 50px;
+    border-color: seagreen;
+    padding: 4px;
+}
